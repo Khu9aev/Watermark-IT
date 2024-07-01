@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatermarkIt", "WatermarkIt\WatermarkIt.csproj", "{CCDCC048-89E4-49EA-9B6E-A9270214793E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "watermark", "watermark\watermark.csproj", "{41775665-623B-4D55-95A4-2ADFFADA617D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDCC048-89E4-49EA-9B6E-A9270214793E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDCC048-89E4-49EA-9B6E-A9270214793E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDCC048-89E4-49EA-9B6E-A9270214793E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDCC048-89E4-49EA-9B6E-A9270214793E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41775665-623B-4D55-95A4-2ADFFADA617D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41775665-623B-4D55-95A4-2ADFFADA617D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41775665-623B-4D55-95A4-2ADFFADA617D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41775665-623B-4D55-95A4-2ADFFADA617D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2F01FA6-E5D6-4A6E-966D-2762F81D7BD3}
+	EndGlobalSection
+EndGlobal
